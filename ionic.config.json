@@ -1,8 +1,7 @@
 {
-  "name": "ionic-local-notif",
-  "app_id": "",
-  "type": "ionic-angular",
+  "name": "ionic-local-notification",
   "integrations": {
-    "cordova": {}
-  }
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
 }
